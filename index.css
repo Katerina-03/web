@@ -73,7 +73,7 @@
     left: -30px;
     top: -182px;
     position: absolute;
-    background-image: url("assets_/IMG_2419.png");
+    background-image: url("assets/IMG_2419.png");
     background-size: 100% 100%;
 }
 
@@ -83,7 +83,7 @@
     left: 0px;
     top: 160px;
     position: absolute;
-    background-image: url("assets_/IMG_2432.JPG");
+    background-image: url("assets/IMG_2432.JPG");
 }
 
 .startPage__info{
@@ -107,7 +107,7 @@
     top: 173px;
     position: absolute;
     border-radius: 9999px;
-    background-image: url("assets_/IMG_2722.PNG");
+    background-image: url("assets/IMG_2722.PNG");
     background-size: 100% 100%;
 }
 
@@ -117,7 +117,7 @@
     left: 1280px;
     top: 373px;
     position: absolute;
-    background-image: url("assets_/IMG_2723.PNG");
+    background-image: url("assets/IMG_2723.PNG");
     background-size: 100% 100%;
 }
 
@@ -169,7 +169,7 @@
     left: 510px;
     top: 800px;
     position: absolute;
-    background-image: url("assets_/ргиси.PNG");
+    background-image: url("assets/ргиси.PNG");
     opacity: 0.10;
     background-size: 100% 100%;
 }
@@ -197,7 +197,7 @@
     position: absolute;
     transform: rotate(7.47deg);
     transform-origin: 0 0;
-    background-image: url("assets_/IMG_2554.PNG");
+    background-image: url("assets/IMG_2554.PNG");
     background-size: 100% 100%;
 }
 
@@ -207,7 +207,7 @@
     left: 90px;
     top: 892px;
     position: absolute;
-    background-image: url("assets_/IMG_2553 (1).PNG");
+    background-image: url("assets/IMG_2553 (1).PNG");
     background-size: 100% 100%;
 }
 
@@ -244,7 +244,7 @@
     left: 790px;
     top: 1800px;
     position: absolute;
-    background-image: url("assets_/дк.PNG");
+    background-image: url("assets/дк.PNG");
     background-size: 100% 100%;
     opacity: 0.08;
 }
@@ -255,7 +255,7 @@
     left: -60px;
     top: 1810px;
     position: absolute;
-    background-image: url("assets_/IMG_2716.PNG");
+    background-image: url("assets/IMG_2716.PNG");
     background-size: 100% 100%;
 }
 
@@ -297,7 +297,7 @@
     top: 2809px;
     position: absolute;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    background-image: url("assets_/IMG_2536 2.png");
+    background-image: url("assets/IMG_2536 2.png");
     background-size: 100% 100%;
 }
 
@@ -307,7 +307,7 @@
     left: -0px;
     top: 2944px;
     position: absolute;
-    background-image: url("assets_/IMG_2536 1.png");
+    background-image: url("assets/IMG_2536 1.png");
     background-size: 100% 100%;
 }
 
@@ -345,7 +345,7 @@
     left: 97px;
     top: 2920px;
     position: absolute;
-    background-image: url("assets_/IMG_2453.png");
+    background-image: url("assets/IMG_2453.png");
     background-size: 100% 100%;
 }
 
@@ -355,7 +355,7 @@
     left: 397px;
     top: 3050px;
     position: absolute;
-    background-image: url("assets_/IMG_2578.png");
+    background-image: url("assets/IMG_2578.png");
     background-size: 100% 100%;
 }
 
@@ -365,7 +365,7 @@
     left: 687px;
     top: 3180px;
     position: absolute;
-    background-image: url("assets_/IMG_2577.png");
+    background-image: url("assets/IMG_2577.png");
     background-size: 100% 100%;
 }
 
@@ -375,6 +375,6 @@
     left: 997px;
     top: 3299px;
     position: absolute;
-    background-image: url("assets_/IMG_0255.png");
+    background-image: url("assets/IMG_0255.png");
     background-size: 100% 100%;
 }
