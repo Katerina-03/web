@@ -1,0 +1,368 @@
+@import "resetStyle.css";
+@font-face {
+    font-family: Freeride;
+    src: url("fonts/Freeride.otf");
+}
+
+html {
+    background-color: black;
+}
+
+
+.startPage__name {
+    width: 751px;
+    left: 419px;
+    top: 37px;
+    position: absolute;
+    text-align: center;
+    color: #A3FF00;
+    font-size: 48px;
+    font-family: Soledago;
+    font-weight: 400;
+}
+
+.startPage__master{
+    left: 419px;
+    top: 121px;
+    position: absolute;
+    text-align: center;
+    color: #A3FF00;
+    font-size: 24px;
+    font-family: Soledago;
+    font-weight: 400;
+}
+
+.startPage__student{
+    width: 251px;
+    height: 31px;
+    left: 660px;
+    top: 121px;
+    position: absolute;
+    text-align: center;
+    color: #A3FF00;
+    font-size: 24px;
+    font-family: Soledago;
+    font-weight: 400;
+}
+
+.startPage__performances{
+    width: 194px;
+    height: 31px;
+    left: 976px;
+    top: 121px;
+    position: absolute;
+    text-align: center;
+    color: #A3FF00;
+    font-size: 24px;
+    font-family: Soledago;
+    font-weight: 400;
+}
+
+.startPage__logo{
+    width: 494px;
+    height: 532px;
+    left: -30px;
+    top: -182px;
+    position: absolute;
+    background-image: url("assets/IMG_2419.png");
+    background-size: 100% 100%;
+}
+
+.startPage__photo{
+    width: 1230px;
+    height: 668px;
+    left: 0px;
+    top: 160px;
+    position: absolute;
+    background-image: url("assets/IMG_2432.JPG");
+}
+
+.startPage__info{
+    width: 362px;
+    height: 465px;
+    left: 0px;
+    top: 400px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 26px;
+    font-family: Sensal;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.startPage__footer__VK{
+    width: 79px;
+    height: 79px;
+    left: 1280px;
+    top: 173px;
+    position: absolute;
+    border-radius: 9999px;
+    background-image: url("assets/IMG_2722.PNG");
+    background-size: 100% 100%;
+}
+
+.startPage__footer__I{
+    width: 79px;
+    height: 79px;
+    left: 1280px;
+    top: 373px;
+    position: absolute;
+    background-image: url("assets/IMG_2723.PNG");
+    background-size: 100% 100%;
+}
+
+.startPage__footer__link1{
+    width: 209px;
+    height: 30px;
+    left: 1217px;
+    top: 269px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Sensal;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.startPage__footer__link2{
+    width: 209px;
+    height: 30px;
+    left: 1217px;
+    top: 322px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Sensal;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.startPage__footer__link3{
+    width: 209px;
+    height: 30px;
+    left: 1218px;
+    top: 477px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Sensal;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.masterPage__background{
+    width: 910px;
+    height: 1008px;
+    left: 510px;
+    top: 800px;
+    position: absolute;
+    background-image: url("assets/ргиси.PNG");
+    opacity: 0.10;
+    background-size: 100% 100%;
+}
+
+.masterPage__name{
+    left: 836px;
+    top: 906px;
+    position: absolute;
+    text-align: center;
+    color: #C24E7B;
+    font-size: 96px;
+    font-family: Freeride;
+    font-weight: 400;
+    letter-spacing: 10.08px;
+}
+
+.masterPage__PB{
+    width: 590px;
+    height: 428.99px;
+    left: 815px;
+    top: 998px;
+    position: absolute;
+    transform: rotate(7.47deg);
+    transform-origin: 0 0;
+    background-image: url("assets/IMG_2554.PNG");
+    background-size: 100% 100%;
+}
+
+.masterPage__AA{
+    width: 570px;
+    height: 403px;
+    left: 90px;
+    top: 892px;
+    position: absolute;
+    background-image: url("assets/IMG_2553 (1).PNG");
+    background-size: 100% 100%;
+}
+
+.masterPage__info__PB{
+    width: 659px;
+    left: 720px;
+    top: 1473px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Sensal;
+    font-weight: 400;
+    line-height: 2;
+}
+
+.masterPage__info__AA{
+    width: 659px;
+    height: 295px;
+    left: 40px;
+    top: 1310px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Sensal;
+    font-weight: 400;
+    line-height: 2;
+}
+
+.studentPage__background{
+    width: 632px;
+    height: 993px;
+    left: 790px;
+    top: 1800px;
+    position: absolute;
+    background-image: url("assets/дк.PNG");
+    background-size: 100% 100%;
+    opacity: 0.08;
+}
+
+.studentPage__photo{
+    width: 1257px;
+    height: 1024px;
+    left: -60px;
+    top: 1810px;
+    position: absolute;
+    background-image: url("assets/IMG_2716.PNG");
+    background-size: 100% 100%;
+}
+
+.studentPage__name{
+    width: 239.63px;
+    height: 163.90px;
+    left: 793px;
+    top: 1890px;
+    position: absolute;
+    transform: rotate(11.22deg);
+    transform-origin: 0 0;
+    text-align: center;
+    color: #A3FF00;
+    font-size: 96px;
+    font-family: Freeride;
+    font-weight: 400;
+    letter-spacing: 10.08px;
+}
+
+.studentPage__info{
+    width: 468px;
+    height: 1024px;
+    left: 915px;
+    top: 1820px;
+    position: absolute;
+    text-align: right;
+    color: white;
+    font-size: 20px;
+    font-family: Sensal;
+    font-weight: 400;
+    letter-spacing: 2.10px;
+    line-height: 3;
+}
+
+.performancePage__background1{
+    width: 761px;
+    height: 528px;
+    left: 662px;
+    top: 2809px;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-image: url("assets/IMG_2536 2.png");
+    background-size: 100% 100%;
+}
+
+.performancePage__background2{
+    width: 938px;
+    height: 904px;
+    left: -0px;
+    top: 2905px;
+    position: absolute;
+    background-image: url("assets/IMG_2536 1.png");
+    background-size: 100% 100%;
+}
+
+.performancePage__name1{
+    width: 430px;
+    height: 128px;
+    left: 940px;
+    top: 2830px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 96px;
+    font-family: Freeride;
+    font-weight: 400;
+    letter-spacing: 10.08px;
+}
+
+.performancePage__name2{
+    width: 430px;
+    height: 128px;
+    left: 10px;
+    top: 3700px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 96px;
+    font-family: Freeride;
+    font-weight: 400;
+    letter-spacing: 10.08px;
+}
+
+.performancePage__photo1{
+    width: 347px;
+    height: 490.62px;
+    left: 97px;
+    top: 2920px;
+    position: absolute;
+    background-image: url("assets/IMG_2453.png");
+    background-size: 100% 100%;
+}
+
+.performancePage__photo2{
+    width: 347px;
+    height: 490.62px;
+    left: 397px;
+    top: 3050px;
+    position: absolute;
+    background-image: url("assets/IMG_2578.png");
+    background-size: 100% 100%;
+}
+
+.performancePage__photo3{
+    width: 347px;
+    height: 490.62px;
+    left: 687px;
+    top: 3180px;
+    position: absolute;
+    background-image: url("assets/IMG_2577.png");
+    background-size: 100% 100%;
+}
+
+.performancePage__photo4{
+    width: 347px;
+    height: 490.62px;
+    left: 997px;
+    top: 3299px;
+    position: absolute;
+    background-image: url("assets/IMG_0255.png");
+    background-size: 100% 100%;
+}
