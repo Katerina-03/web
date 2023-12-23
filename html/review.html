@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Отзывы</title>
+    <link rel="stylesheet" href="../css/reviewPage.css">
+    <script src="../scripts/review-script.js"></script>
+</head>
+<body>
+<header>
+    <nav style="background-color: white; color: #A3FF00; padding: 30px;">
+        <a href="index.html">Главная страница</a>
+        <a href="student.html">Мастерская в лицах</a>
+        <a href="master.html">Наши Мастера</a>
+        <a href="performance.html">Наши работы</a>
+        <a href="review.html" class="nav-link active">Отзывы</a>
+    </nav>
+</header>
+<main class="main_review">
+    <form id="review_form">
+        <div><label for="name">Имя:</label>
+            <input id="name" type="text" required></div>
+        <div><label for="text">Текст комментария:</label>
+            <input type="text" id="text" name="text" required></div>
+        <input id="subm_inp" type="submit" value="Добавить">
+    </form>
+    <p id="warning" style="color: red"></p>
+    <div id="reviewList">
+        <table id="table_head">
+            <tbody>
+            <tr>
+                <th>Имя</th>
+                <th>Текст</th>
+            </tr>
+            <template id="reviewTemplate">
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </template>
+            </tbody>
+        </table>
+    </div>
+</main>
+</body>
+</html>
